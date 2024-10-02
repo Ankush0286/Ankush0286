@@ -61,5 +61,5 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushbarua&show_icons=true&locale=en" alt="ankushbarua" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankush0286&show_icons=true&locale=en" alt="Ankush0286" />
 </p>
