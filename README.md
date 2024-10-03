@@ -55,7 +55,7 @@
 ---
 
 <h3 align="left">🌱 What I'm currently learning:</h3>
-<p align="left">Exploring advanced Machine Learning techniques and game development using Unreal Engine.</p>
+<p align="left">Exploring advanced Machine Learning techniques and Android Development using Kotlin.</p>
 
 ---
 
