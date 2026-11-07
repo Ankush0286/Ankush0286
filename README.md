@@ -108,14 +108,13 @@ class AnkushBarua:
 
 <div align="center">
 
-<a href="https://github.com/Ankush0286">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ankush0286&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Ankush0286">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush0286&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
+<img src="https://raw.githubusercontent.com/Ankush0286/Ankush0286/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="49%"/>
+<img src="https://raw.githubusercontent.com/Ankush0286/Ankush0286/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%"/>
+<img src="https://raw.githubusercontent.com/Ankush0286/Ankush0286/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits" width="49%"/>
+<img src="https://raw.githubusercontent.com/Ankush0286/Ankush0286/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%"/>
+<img src="https://raw.githubusercontent.com/Ankush0286/Ankush0286/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="98%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Ankush0286&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -123,11 +122,11 @@ class AnkushBarua:
 
 ---
 
-## 🔥 Contribution Graph
+## 🟩 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush0286&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&area_color=0e75b6&hide_border=true&radius=10" alt="Contribution Graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ankush0286/Ankush0286/main/assets/contribution-heatmap.svg" alt="Contribution heatmap" width="100%"/>
 
 </div>
 
@@ -142,69 +141,6 @@ class AnkushBarua:
 </picture>
 
 </div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankush0286&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-> Replace the placeholders below with your best 4 to 6 repos. Pinned repos on your profile show up right under this README.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Project Name 1: AI Agent Platform</h3>
-      <p>Multi-agent system with tool-calling, memory, and a FastAPI backend. Deployed on GKE with autoscaling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Ankush0286/REPO-1">🔗 Repo</a> &nbsp;•&nbsp; <a href="https://demo-link.com">🌐 Live Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Project Name 2: RAG Knowledge Assistant</h3>
-      <p>Hybrid-search RAG pipeline with re-ranking, pgvector, and an evaluation harness for retrieval quality.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Ankush0286/REPO-2">🔗 Repo</a> &nbsp;•&nbsp; <a href="https://demo-link.com">🌐 Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Project Name 3: High-Performance Go Service</h3>
-      <p>Concurrent API gateway in Go with Redis rate-limiting, caching, and Prometheus metrics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Ankush0286/REPO-3">🔗 Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Project Name 4: Full-Stack AI SaaS</h3>
-      <p>Next.js + TypeScript frontend with streaming LLM responses, Cloudflare Workers at the edge, and Postgres.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Ankush0286/REPO-4">🔗 Repo</a> &nbsp;•&nbsp; <a href="https://demo-link.com">🌐 Live Demo</a>
-    </td>
-  </tr>
-</table>
 
 ---
 
